@@ -70,7 +70,8 @@ img {
 #galeria img {
     width: 10em;
     height: 10em;
-    border-radius: 20%;
+    border-radius: 50%;
+    margin-top: 1em;
 }
 
 #integrantes {
